@@ -7,3 +7,4 @@ js functions elaborated
 1. object iterations into a single array
 1. object and array counting
 1. object to array, then subsequent counting
+1. promises examples of async and output
